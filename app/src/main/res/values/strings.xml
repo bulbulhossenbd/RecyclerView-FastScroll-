@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FastScroll RecyclerView</string>
+    <string name="action_github">Github</string>
+
+    <string-array name="countries_array">
+        <item>ULAB</item>
+        <item>UIU</item>
+        <item>D</item>
+        <item>UAA</item>
+        <item>AS</item>
+        <item>LAB</item>
+        <item>UIU</item>
+        <item>UD</item>
+        <item>UAA</item>
+        <item>AS</item>
+        <item>ULAB</item>
+        <item>UIU</item>
+        <item>UD</item>
+        <item>UAA</item>
+        <item>UAS</item>
+
+    </string-array>
+
+</resources>
